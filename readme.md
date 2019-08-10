@@ -1,4 +1,9 @@
 #### 分类
+- 数据分析案例
+
+    1. [利用公开数据推测掘金经营状况](https://nbviewer.jupyter.org/github/U2FsdGVkX1x/PDoc/blob/master/%E5%88%A9%E7%94%A8%E5%85%AC%E5%BC%80%E6%95%B0%E6%8D%AE%E6%8E%A8%E6%B5%8B%E6%8E%98%E9%87%91%E7%BB%8F%E8%90%A5%E7%8A%B6%E5%86%B5.ipynb)
+    2. [信用卡违约率分析](https://nbviewer.jupyter.org/github/U2FsdGVkX1x/PDoc/blob/master/%E4%BF%A1%E7%94%A8%E5%8D%A1%E8%BF%9D%E7%BA%A6%E7%8E%87%E5%88%86%E6%9E%90.ipynb)
+    
 - 爬虫
     1. [getUserRelation.py](https://github.com/U2FsdGVkX1x/PDoc/blob/master/getUserRelation.py) 获取掘金用户的关注关系
     2. [getUserInfo.py](https://github.com/U2FsdGVkX1x/PDoc/blob/master/getUserInfo.py) 根据 getUserRelation.py 抓取到的关注关系获取用户信息
@@ -17,8 +22,6 @@
     4. [PageRank: 利用 PageRank 分析掘金关注关系](https://github.com/U2FsdGVkX1x/PDoc/blob/master/%E5%88%A9%E7%94%A8%20PageRank%20%E5%88%86%E6%9E%90%E6%8E%98%E9%87%91%E5%85%B3%E6%B3%A8%E5%85%B3%E7%B3%BB.ipynb)
         - 相关文章：[利用 pagerank 计算掘金用户影响力](https://juejin.im/post/5d36c5c06fb9a07ee16968b5)
 
-- 数据分析案例
 
-    1. [利用公开数据推测掘金经营状况](https://github.com/U2FsdGVkX1x/PDoc/blob/master/%E5%88%A9%E7%94%A8%E5%85%AC%E5%BC%80%E6%95%B0%E6%8D%AE%E6%8E%A8%E6%B5%8B%E6%8E%98%E9%87%91%E7%BB%8F%E8%90%A5%E7%8A%B6%E5%86%B5.ipynb)
 
 Tips: .ipynb 文件建议使用 NBViewer 打开预览，体验更佳。
