@@ -19,7 +19,7 @@
     2. [逻辑回归：利用逻辑回归预测收入](https://github.com/U2FsdGVkX1x/PDoc/blob/master/%E5%88%A9%E7%94%A8%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92%E9%A2%84%E6%B5%8B%E6%94%B6%E5%85%A5.ipynb)
     3. [朴素贝叶斯：利用朴素贝叶斯进行文章分类](https://github.com/U2FsdGVkX1x/PDoc/blob/master/%E5%88%A9%E7%94%A8%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF%E8%BF%9B%E8%A1%8C%E6%96%87%E7%AB%A0%E5%88%86%E7%B1%BB.ipynb)
         - 相关文章：[利用朴素贝叶斯为掘金文章自动归类](https://juejin.im/post/5d32b4d8518825754a7f2ccb)
-    4. [PageRank: 利用 PageRank 分析掘金关注关系](https://github.com/U2FsdGVkX1x/PDoc/blob/master/%E5%88%A9%E7%94%A8%20PageRank%20%E5%88%86%E6%9E%90%E6%8E%98%E9%87%91%E5%85%B3%E6%B3%A8%E5%85%B3%E7%B3%BB.ipynb)
+    4. [利用 PageRank 算法寻找掘金较有影响力的用户](https://nbviewer.jupyter.org/github/U2FsdGVkX1x/PDoc/blob/master/%E5%88%A9%E7%94%A8%20PageRank%20%E7%AE%97%E6%B3%95%E5%AF%BB%E6%89%BE%E6%8E%98%E9%87%91%E8%BE%83%E6%9C%89%E5%BD%B1%E5%93%8D%E5%8A%9B%E7%9A%84%E7%94%A8%E6%88%B7.ipynb)
         - 相关文章：[利用 pagerank 计算掘金用户影响力](https://juejin.im/post/5d36c5c06fb9a07ee16968b5)
 
 
